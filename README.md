@@ -54,17 +54,9 @@ Pelanggan VIP berkontribusi >35% total revenue
 
 Pembayaran e-wallet menjadi metode paling populer
 
-📁 /dashboard/
+📁 /dataset/
 
-Berisi dashboard Excel atau Power BI yang menampilkan:
-
-Sales Trend
-
-Top Menu & Categories
-
-Peak Hours
-
-RFM Segmentation
+Berisi dataset CSV Excel 
 
 📁 README.md
 
@@ -74,7 +66,6 @@ Dokumen utama yang menjelaskan seluruh proyek (file ini).
 
 SQL (Aggregation, Grouping, Filtering)
 
-
 Window Functions
 
 Data Cleaning & Standardization
@@ -83,7 +74,6 @@ RFM Analysis
 
 Business Insight Communication
 
-Dashboard Development (Excel / Power BI)
 
 # Future Enhancements
 
