@@ -101,6 +101,3 @@ API mini menggunakan FastAPI / Flask
 Nama: Yasril 
 Role: Data Analyst
 Tools: SQL • PostgreSQL/MySQL • Excel • Python  
-price	Harga per item
-total_amount	Total belanja (quantity × price)
-payment_method	Metode pembayaran
